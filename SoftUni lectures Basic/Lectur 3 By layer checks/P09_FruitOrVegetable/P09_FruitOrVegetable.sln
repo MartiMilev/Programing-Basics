@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_FruitOrVegetable", "P09_FruitOrVegetable\P09_FruitOrVegetable.csproj", "{13836364-23DB-4D27-BEA1-BA3B854A361D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13836364-23DB-4D27-BEA1-BA3B854A361D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13836364-23DB-4D27-BEA1-BA3B854A361D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13836364-23DB-4D27-BEA1-BA3B854A361D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13836364-23DB-4D27-BEA1-BA3B854A361D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59076DDC-B831-44BC-97A6-02E90A9BD709}
+	EndGlobalSection
+EndGlobal
